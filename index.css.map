@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../js/GraphViz.css", "../js/bibliography.css"],
+  "sourcesContent": ["body {\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\";\n}\n\n.footnote {\n    font-family: serif;\n}\n\n/* This sets the color for \"TK\" nodes to a light blue green. */\ng.type-Accepting > rect {\n  fill: #00ffd0;\n}\n\ng.type-BuiltIn .edgeLabel {\n    color: red;\n}\n\ntext {\n  font-weight: 300;\n}\n\n.node rect {\n  stroke: #999;\n  fill: #fff;\n  stroke-width: 1.5px;\n}\n\n.edgePath path {\n  stroke: #333;\n  stroke-width: 1.5px;\n}\n\n", ".csl-bib-body { line-height: 1.35; display: grid; grid-template-columns: max-content 1fr; }\n.csl-entry { display: contents; }\n.csl-block { grid-column: 1/span 2; background: lightpink; }\n.csl-left-margin { background: aliceblue; padding-right: 1em;}\n.csl-right-inline {  background: lightgoldenrodyellow; }\n.csl-indent { margin-left: 2em; grid-column: 1/span 2; background: lightsalmon; }\n"],
+  "mappings": "AAAA,KACE,6IAGF,UACI,kBAIJ,sBACE,aAGF,0BACI,UAGJ,KACE,gBAGF,WACE,YACA,UACA,mBAGF,eACE,YACA,mBC7BF,cAAgB,iBAAmB,aAAe,sCAClD,WAAa,iBACb,WAAa,qBAAuB,qBACpC,iBAAmB,qBAAuB,kBAC1C,kBAAqB,gCACrB,YAAc,gBAAkB,qBAAuB",
+  "names": []
+}
